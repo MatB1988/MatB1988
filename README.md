@@ -40,3 +40,7 @@ Soy Matías, un apasionado de Data Analytics y Data Science. Siempre en busca de
 4. **Análisis del Mercado de Criptomonedas y Tablero de Toma de Decisiones**
    - Descripción: Realización de un análisis del mercado de criptomonedas junto con el desarrollo de un tablero de toma de decisiones.
    - [Enlace al proyecto](https://github.com/MatB1988/Proyecto_Cripto)
+
+5.  **Creacion de base de datos en MySQL**
+   - Descripción: Contiene el código necesario para la creación y gestión de una base de datos utilizando MySQL.
+   - [Enlace al proyecto](https://github.com/MatB1988/creacion_base_datos_mysql)
